@@ -20,6 +20,7 @@
 </p>
 <br />
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <a href="https://developer.android.com" alt="Android" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1173px-Android_logo_2019_%28stacked%29.svg.png" height="40" width="40" /></a>
 <a href="https://kotlinlang.org" alt="Kotlin" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" width="40" /></a>
 <a href="https://developer.android.com/studio" alt="Android Studio" target="blank"><img align="left" src="https://user-images.githubusercontent.com/65572088/115593549-3f235e80-a2f2-11eb-9c70-72cf1e10cac6.png" height="40" width="40" /></a>
@@ -29,6 +30,7 @@
 <a href="https://www.w3schools.com/cpp/" alt="C++" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" width="40" /></a>
 <a href="https://www.figma.com/" alt="Figma" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" /></a>
 <a href="https://www.photoshop.com/en" alt="Figma" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" width="40" /></a>
+</p>
 <br /> <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujkhanna0210&show_icons=true&locale=en&layout=compact" alt="tanujkhanna0210" /></p>
 
