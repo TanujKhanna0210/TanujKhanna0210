@@ -27,9 +27,7 @@
 <a href="https://firebase.google.com/" alt="Firebase" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="40" /></a>
 <a href="https://developer.android.com/jetpack/compose" alt="Jetpack Compose" target="blank"><img align="left" src="https://user-images.githubusercontent.com/65572088/115596063-4c8e1800-a2f5-11eb-87b9-e11289c852f5.png" height="40" width="40" /></a>
 <a href="https://www.cprogramming.com/" alt="C" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/cpp/" alt="C++" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" width="40" /></a>
-<a href="https://www.figma.com/" alt="Figma" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" /></a>
-<a href="https://www.photoshop.com/en" alt="Figma" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" width="40" /></a> </p>
+<a href="https://www.w3schools.com/cpp/" alt="C++" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" width="40" /></a> </p>
 
 <pre> </pre>
 
