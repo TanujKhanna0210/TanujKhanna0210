@@ -29,7 +29,8 @@
 <a href="https://www.cprogramming.com/" alt="C" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" width="40" /></a>
 <a href="https://www.w3schools.com/cpp/" alt="C++" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="40" width="40" /></a> </p>
 
-<pre> </pre>
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanujkhanna0210&show_icons=true&locale=en&layout=compact" alt="tanujkhanna0210" /></p>
 
